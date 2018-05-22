@@ -2,21 +2,21 @@
 # If you need a specialist in the area:
 If you want to add additional systems to the server or I want to correct a serious error, call us so that you can put new systems to your server.
 
-Contato Whatsapp: +52 8348521592
+Contacto Whatsapp: +52 8348521592
 
 # Downloads
-Executaveis compilados [AppVeyor builds for Windows]()
-Store Imagens [31/01/2018](http://www.mediafire.com/file/985ey1yb3x2fpyf/store31-01-2018.rar)
+Executables compilados [AppVeyor builds for Windows]()
+Store Images [31/01/2018](http://www.mediafire.com/file/985ey1yb3x2fpyf/store31-01-2018.rar)
 
 # Supported Clients
-[Versão 10](https://secure.tibia.com/account/?subtopic=downloadclient&step=downloadoutdated)
+[Version 10](https://secure.tibia.com/account/?subtopic=downloadclient&step=downloadoutdated)
 
-[Versão 11](https://secure.tibia.com/account/?subtopic=downloadclient)
+[Version 11](https://secure.tibia.com/account/?subtopic=downloadclient)
 
 # IpChanger
-Versões 7.x - 10.x: [Compilado](https://static.otland.net/ipchanger.exe)
+Versions 7.x - 10.x: [Compilado](https://static.otland.net/ipchanger.exe)
 
-Versões 11.x: [Compilado](http://www.tibiaking.com/forum/forums/topic/82629-1140-ip-changer/)
+Versions 11.x: [Compilado](http://www.tibiaking.com/forum/forums/topic/82629-1140-ip-changer/)
 
 # Supported Sites
 
