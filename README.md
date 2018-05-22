@@ -1,14 +1,10 @@
-# OTXServer Full Global Daily Updated!  
-[![pipeline status](https://gitlab.com/malucooo/Otxserver-Global/badges/master/pipeline.svg)](https://gitlab.com/malucooo/Otxserver-Global/commits/master)
-[![Build status](https://ci.appveyor.com/api/projects/status/uel8kgjtmkfa9m75?svg=true)](https://ci.appveyor.com/project/malucooo/otxserver-global) 
-
 # If you need a specialist in the area:
 If you want to add additional systems to the server or I want to correct a serious error, call us so that you can put new systems to your server.
 
 Contato Whatsapp: +52 8348521592
 
 # Downloads
-Executaveis compilados [AppVeyor builds for Windows](https://ci.appveyor.com/project/malucooo/otxserver-global)
+Executaveis compilados [AppVeyor builds for Windows]()
 Store Imagens [31/01/2018](http://www.mediafire.com/file/985ey1yb3x2fpyf/store31-01-2018.rar)
 
 # Supported Clients
@@ -32,7 +28,7 @@ Originally by Monteiro, security fixes and features by Leonardo Pereira (jlcvp)
 [Remeres Map Editor Official](https://github.com/hjnilsson/rme).
 
 # Issues
-We are using [Issue Tracker of Github](https://github.com/malucooo/Otxserver-new/issues).
+We are using [Issue Tracker of Github](https://github.com/ZeroSkywalker/OTX-Server/issues).
 
 # Contact:
 Facebook: www.facebook.com/DenialOfServices
